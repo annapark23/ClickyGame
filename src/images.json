@@ -1,86 +1,50 @@
 [
     {
       "id": 1,
-      "name": "SpongeBob",
-      "image": "http://pngimg.com/uploads/dog/dog_PNG50321.png",
-      "occupation": "Fry Cook",
-      "location": "A Pineapple Under the Sea"
+      "image": "http://pngimg.com/uploads/dog/dog_PNG50321.png"
     },
     {
       "id": 2,
-      "name": "Mr. Krabs",
-      "image": "http://pngimg.com/uploads/dog/dog_PNG50327.png",
-      "occupation": "Restaurant Owner",
-      "location": "A Giant Anchor"
+      "image": "http://pngimg.com/uploads/dog/dog_PNG50327.png"
     },
     {
       "id": 3,
-      "name": "Squidward",
-      "image": "https://img.pngmix.com/pm/dogs/dogs_013.png",
-      "occupation": "Cashier",
-      "location": "An Easter Island Head"
+      "image": "https://img.pngmix.com/pm/dogs/dogs_013.png"
     },
     {
       "id": 4,
-      "name": "Dexter",
-      "image": "http://pngimg.com/uploads/dog/dog_PNG50326.png",
-      "occupation": "Boy Genius",
-      "location": "A Secret Laboratory"
+      "image": "http://pngimg.com/uploads/dog/dog_PNG50326.png"
     },
     {
       "id": 5,
-      "name": "Courage",
-      "image": "https://clipart.info/images/ccovers/15036878454-dog-png-image-picture-download-dogs.png",
-      "occupation": "A Cowardly Dog",
-      "location": "Nowhere, Kansas"
+      "image": "https://clipart.info/images/ccovers/15036878454-dog-png-image-picture-download-dogs.png"
     },
     {
       "id": 6,
-      "name": "Doug Funnie",
-      "image": "https://img.pngio.com/dog-png-dog-png-1402_915.png",
-      "occupation": "Student",
-      "location": "Bluffington"
+      "image": "https://img.pngio.com/dog-png-dog-png-1402_915.png"
     },
     {
       "id": 7,
-      "name": "Bugs Bunny",
-      "image": "https://pngimg.com/uploads/dog/dog_PNG50372.png",
-      "occupation": "Looney Toon",
-      "location": "A Rabbit Burrow"
+      "image": "https://pngimg.com/uploads/dog/dog_PNG50372.png"
     },
     {
       "id": 8,
-      "name": "Johnny Bravo",
-      "image": "https://www.yearofthesmalldog.com/assets/img/slider/white-small-dog.png",
-      "occupation": "Ladies Man",
-      "location": "Aron City"
+      "image": "https://www.yearofthesmalldog.com/assets/img/slider/white-small-dog.png"
     },
     {
       "id": 9,
-      "name": "Tommy Pickles",
-      "image": "https://www.purina.co.uk/dog/purina-one-small-dog/sites/g/files/mcldtz346/files/product-feeding-instructions-image.png",
-      "occupation": "Adventurer",
-      "location": "California"
+      "image": "https://www.purina.co.uk/dog/purina-one-small-dog/sites/g/files/mcldtz346/files/product-feeding-instructions-image.png"
     },
     {
       "id": 10,
-      "name": "Rocko",
-      "image": "https://mesanortheastah.com/wp-content/uploads/2016/01/slider-dog-small.png",
-      "occupation": "Cashier",
-      "location": "O-Town, California"
+      "image": "https://mesanortheastah.com/wp-content/uploads/2016/01/slider-dog-small.png"
     },
     {
       "id": 11,
-      "name": "Captain Planet",
-      "image": "http://nebula.wsimg.com/03ead504f9c4e0ccf4115f0e84d4d5f7?AccessKeyId=C7BC093C83BB8E8EC644&disposition=0&alloworigin=1",
-      "occupation": "Superhero",
-      "location": "Earth"
+      "image": "http://nebula.wsimg.com/03ead504f9c4e0ccf4115f0e84d4d5f7?AccessKeyId=C7BC093C83BB8E8EC644&disposition=0&alloworigin=1"
     },
     {
       "id": 12,
-      "name": "Ickis",
-      "image": "https://vignette.wikia.nocookie.net/doxen/images/e/ee/Maltipoo-puppies-wallpaper_copy.png/revision/latest?cb=20121009000417",
-      "occupation": "Ahhhh! A Real Monster!",
-      "location": "Under a City Dump"
+      "image": "https://vignette.wikia.nocookie.net/doxen/images/e/ee/Maltipoo-puppies-wallpaper_copy.png/revision/latest?cb=20121009000417"
     }
   ]
